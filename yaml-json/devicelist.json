@@ -1,0 +1,1 @@
+[0, 1, "yaml-json test", {"netmask": "255.255.255.0", "hostname": "myrouter", "ip_addr": "10.10.10.239", "gateway": "10.10.10.1"}]

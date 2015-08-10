@@ -1,0 +1,7 @@
+- 0
+- 1
+- yaml-json test
+- gateway: 10.10.10.1
+  hostname: myrouter
+  ip_addr: 10.10.10.239
+  netmask: 255.255.255.0
