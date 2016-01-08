@@ -4,6 +4,7 @@ import yaml
 import json
 from pprint import pprint as pp
 
+
 def main():
 
     with open("devicelist.yml", "r") as f:
@@ -24,8 +25,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-

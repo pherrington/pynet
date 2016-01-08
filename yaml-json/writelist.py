@@ -2,8 +2,9 @@
 import yaml
 import json
 
+
 def main():
-    my_list = range (2)
+    my_list = range(2)
     my_list.append('yaml-json test')
     my_list.append({})
     my_list[-1]['ip_addr'] = '10.10.10.239'
@@ -20,4 +21,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
